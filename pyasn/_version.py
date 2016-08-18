@@ -1,3 +1,3 @@
-__version__ = '1.5.0b7yelp1'
+__version__ = '1.5.0.yelp1'
 
 
